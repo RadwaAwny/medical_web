@@ -1,2 +1,1 @@
-# medical_web
-a medical website for lung and colon cancer using react-vite and tailwind
+# task1 of day 1 source control
